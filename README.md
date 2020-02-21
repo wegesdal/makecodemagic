@@ -1,10 +1,10 @@
 # makecodemagic
 
-minecraft-Fibonacci
+#1h1 minecraft-Fibonacci
 
 Generates a binary plot of the Fibonacci sequence.
 
-minecraft-Mandelbrot
+#h1 minecraft-Mandelbrot
 Generates a Mandelbrot set fractal.
 
 minecraft-Mona-Lisa
