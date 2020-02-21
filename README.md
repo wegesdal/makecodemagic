@@ -1,17 +1,17 @@
 # makecodemagic
 
-#1h1 minecraft-Fibonacci
+# h2 minecraft-Fibonacci
 
 Generates a binary plot of the Fibonacci sequence.
 
-#h1 minecraft-Mandelbrot
+# h2 minecraft-Mandelbrot
 Generates a Mandelbrot set fractal.
 
-minecraft-Mona-Lisa
+# h2 minecraft-Mona-Lisa
 Depicts the Mona Lisa
 
-pic_to_array_topo and pic_to_array
+# h2 pic_to_array_topo and pic_to_array
 Convert a picture to an array of bricks indices for use in other scripts
 
-topo.js
+# h2 topo.js
 Script for topo map generation.
